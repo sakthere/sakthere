@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sakthere](https://github.com/sakthere)
 
-- 💬 Ask me about **DotNet, Angular**
+- 💬 Ask me about **Full Stack Web Development**
 
-- 📫 How to reach me **tiwarisaket3**
+- 📫 How to reach me **tiwarisaket3@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BiVAK8aC4HR1eOUg-0ULg3xa2OcQaZeb/view?usp=drive_link](https://drive.google.com/file/d/1BiVAK8aC4HR1eOUg-0ULg3xa2OcQaZeb/view?usp=drive_link)
 
